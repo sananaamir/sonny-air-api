@@ -94,4 +94,4 @@ def get_users():
 def get_airports():
 	return jsonify({'airports': airports})	
 
-app.run(port=5000)
+app.run()
