@@ -1,0 +1,67 @@
+[
+    {
+        "code": "AAM",
+        "name": "Mala Mala",
+        "stateCode": "",
+        "city": "Mala Mala",
+        "countryCode": "ZA",
+        "countryName": "South Africa",
+        "latitude": -3.140277777777778,
+        "longitude": 28.24277777777778,
+        "admiralsClubUrl": ""
+    },
+    {
+        "code": "AAN",
+        "name": "Al Ain",
+        "stateCode": "",
+        "city": "Al Ain",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "latitude": 2.033333333333333,
+        "longitude": 55.266666666666666,
+        "admiralsClubUrl": ""
+    },
+    {
+        "code": "AAQ",
+        "name": "Anapa",
+        "stateCode": "",
+        "city": "Anapa",
+        "countryCode": "RU",
+        "countryName": "Russia",
+        "latitude": 45.001666666666665,
+        "longitude": 37.348333333333336,
+        "admiralsClubUrl": ""
+    },
+    {
+        "code": "AAR",
+        "name": "Aarhus Tirstrup",
+        "stateCode": "",
+        "city": "Aarhus",
+        "countryCode": "DK",
+        "countryName": "Denmark",
+        "latitude": 56.300555555555555,
+        "longitude": 10.620277777777778,
+        "admiralsClubUrl": ""
+    },
+    {
+        "code": "AAT",
+        "name": "Altay",
+        "stateCode": "",
+        "city": "Altay",
+        "countryCode": "CN",
+        "countryName": "China",
+        "latitude": 47.75,
+        "longitude": 87.75,
+        "admiralsClubUrl": ""
+    },
+    {
+        "code": "AAX",
+        "name": "Araxa",
+        "stateCode": "MG",
+        "city": "Araxa",
+        "countryCode": "BR",
+        "countryName": "Brazil",
+        "latitude": -19.568055555555556,
+        "longitude": -46.92916666666667,
+        "admiralsClubUrl": ""
+    }]
